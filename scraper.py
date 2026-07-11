@@ -14,8 +14,9 @@ try:
         buttons = soup.select(".server-box .server-btn")
 
         if buttons:
-            # M3U ফাইলের হেডার তৈরি
+            # কেবল বাটন পাওয়া গেলেই M3U কন্টেন্ট তৈরি হবে
             m3u_content = "#EXTM3U\n"
+            links_found = False
 
             for btn in buttons:
                 server_name = btn.text.strip()
@@ -24,16 +25,19 @@ try:
 
                 if match:
                     stream_link = match.group(1)
-                    # M3U ফরম্যাটে চ্যানেল অ্যাড করা
                     m3u_content += f'#EXTINF:-1 tvg-id="{server_name}" tvg-name="{server_name}" group-title="FIFA Sports", {server_name}\n'
                     m3u_content += f"{stream_link}\n"
+                    links_found = True
 
-            # fifa.m3u নামে ফাইলটি রাইট করা
-            with open("fifa.m3u", "w", encoding="utf-8") as f:
-                f.write(m3u_content)
-            print("Successfully created/updated fifa.m3u")
+            if links_found:
+                with open("fifa.m3u", "w", encoding="utf-8") as f:
+                    f.write(m3u_content)
+                print("Successfully updated fifa.m3u with new links.")
+            else:
+                print("Buttons found, but no valid stream links extracted.")
         else:
-            print("No servers found.")
+            # বাটন না পাওয়া গেলে ফাইলটি ফাঁকা করবে না, আগেরটাই রেখে দেবে
+            print("❌ বর্তমানে কোনো ম্যাচ লাইভ নেই! সার্ভার বাটনগুলো ফাঁকা। তাই ফাইল আপডেট করা হয়নি।")
     else:
         print(f"Failed to fetch website. Status: {res.status_code}")
 except Exception as e:
