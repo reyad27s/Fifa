@@ -1,9 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Server 2" tvg-name="Server 2" group-title="FIFA Sports", Server 2
-https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/TSN3/tracks-v1a1/mono.m3u8?token=VFNOM3xub19jaGVja19pcHwxNzgzODUzNzYy.a139dc8d4ca7f35d63b9fbb85565599121b02ba7b654e91a622e698e491d04eb
-#EXTINF:-1 tvg-id="Server 3" tvg-name="Server 3" group-title="FIFA Sports", Server 3
-https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/TSN4/index.m3u8?token=VFNONHxub19jaGVja19pcHwxNzgzODU0MTAz.45c27c9ef88b472aed6f5698a922636dd6e289aae733acdd3dde8f6429f73a9a
-#EXTINF:-1 tvg-id="Server 4" tvg-name="Server 4" group-title="FIFA Sports", Server 4
 https://trophystream.com/cors-proxy/https/1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-id="Server 5" tvg-name="Server 5" group-title="FIFA Sports", Server 5
-https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/ITV1/tracks-v1a1/mono.m3u8?token=SVRWMXxub19jaGVja19pcHwxNzgzODU0MTky.c2de1a8b5d0fa83bfef7e3fa5a0f4f6af6a8684956b9b7c4c632fe8393e233fc
