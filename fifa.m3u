@@ -3,9 +3,5 @@
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
 #EXTINF:-1 tvg-id="Server 2" tvg-name="Server 2" group-title="FIFA Sports", Server 2
 https://ritzembeds.pages.dev/embed/fox-usa
-#EXTINF:-1 tvg-id="Server 3" tvg-name="Server 3" group-title="FIFA Sports", Server 3
-https://ritzembeds.pages.dev/embed/fussballtv1uhd-de
 #EXTINF:-1 tvg-id="Server 4" tvg-name="Server 4" group-title="FIFA Sports", Server 4
 https://ritzembeds.pages.dev/embed/tsn-4k
-#EXTINF:-1 tvg-id="Server 5" tvg-name="Server 5" group-title="FIFA Sports", Server 5
-https://ritzembeds.pages.dev/embed/daznmundial-es
