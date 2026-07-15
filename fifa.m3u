@@ -1,19 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HD 1" tvg-name="HD 1" group-title="FIFA Sports", HD 1
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
-#EXTINF:-1 tvg-id="FHD 1" tvg-name="FHD 1" group-title="FIFA Sports", FHD 1
-https://ritzembeds.pages.dev/embed/fox-usa
-#EXTINF:-1 tvg-id="FHD 2" tvg-name="FHD 2" group-title="FIFA Sports", FHD 2
-https://ritzembeds.pages.dev/embed/tsn1-ca
-#EXTINF:-1 tvg-id="FHD 3" tvg-name="FHD 3" group-title="FIFA Sports", FHD 3
-https://ritzembeds.pages.dev/embed/bbcone-uk
-#EXTINF:-1 tvg-id="FHD 4" tvg-name="FHD 4" group-title="FIFA Sports", FHD 4
-https://ritzembeds.pages.dev/embed/daznmundial-es
-#EXTINF:-1 tvg-id="FHD 5" tvg-name="FHD 5" group-title="FIFA Sports", FHD 5
-https://ritzembeds.pages.dev/embed/beinsportsmax-sa
-#EXTINF:-1 tvg-id="4K 1" tvg-name="4K 1" group-title="FIFA Sports", 4K 1
-https://ritzembeds.pages.dev/embed/fox4k-usa
-#EXTINF:-1 tvg-id="4K 2" tvg-name="4K 2" group-title="FIFA Sports", 4K 2
-https://ritzembeds.pages.dev/embed/beinsportsuhd-sa
-#EXTINF:-1 tvg-id="4K 3" tvg-name="4K 3" group-title="FIFA Sports", 4K 3
-https://ritzembeds.pages.dev/embed/fussballtvuhd-de
+#EXTINF:-1 tvg-id="ARG Vs ENG" tvg-name="ARG Vs ENG" group-title="FIFA Sports", ARG Vs ENG
+https://content-aapm1.uplynk.com/ee1d6db35c164e05a0d1712205d8508a/f.m3u8?pbs=4294453e84864826af2aa967c86fe934
+#EXTINF:-1 tvg-id="FRA Vs SPA" tvg-name="FRA Vs SPA" group-title="FIFA Sports", FRA Vs SPA
+https://content-aaps1.uplynk.com/ae6e2ac377334c799dcb9f3ace3bef9f/f.m3u8?pbs=46313f5c7fde40b493c0c2f8346c0768
