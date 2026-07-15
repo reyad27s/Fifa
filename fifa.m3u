@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Server 1" tvg-name="Server 1" group-title="FIFA Sports", Server 1
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/fifa_world_cup_576/fifa_world_cup_576.m3u8?bitrate=1000000&channel=fifa_world_cup_576&gp_id
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
+#EXTINF:-1 tvg-id="Server 2" tvg-name="Server 2" group-title="FIFA Sports", Server 2
+https://ritzembeds.pages.dev/embed/fox-usa
