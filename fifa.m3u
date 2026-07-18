@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ARG Vs ENG" tvg-name="ARG Vs ENG" group-title="FIFA Sports", ARG Vs ENG
-https://content-aapm1.uplynk.com/ee1d6db35c164e05a0d1712205d8508a/f.m3u8?pbs=4294453e84864826af2aa967c86fe934
-#EXTINF:-1 tvg-id="FRA Vs SPA" tvg-name="FRA Vs SPA" group-title="FIFA Sports", FRA Vs SPA
-https://content-aaps1.uplynk.com/ae6e2ac377334c799dcb9f3ace3bef9f/f.m3u8?pbs=46313f5c7fde40b493c0c2f8346c0768
+https://content-aapm1.uplynk.com/ee1d6db35c164e05a0d1712205d8508a/f.m3u8?pbs=a381127b814646d9b3c9e29435365d02
+#EXTINF:-1 tvg-id="FRA Vs SPA (1st Half)" tvg-name="FRA Vs SPA (1st Half)" group-title="FIFA Sports", FRA Vs SPA (1st Half)
+https://img.refooty.com/m3u8/14667-4JfNe.m3u8
+#EXTINF:-1 tvg-id="FRA Vs SPA (2ndt Half)" tvg-name="FRA Vs SPA (2ndt Half)" group-title="FIFA Sports", FRA Vs SPA (2ndt Half)
+https://img.refooty.com/m3u8/14668-AEAdY.m3u8
