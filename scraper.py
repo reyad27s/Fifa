@@ -3,16 +3,16 @@ import sys
 from bs4 import BeautifulSoup
 import requests
 
-url = "http://fifalive.click/"
+url = "http://fifalive.link/"
 
 # Pydroid 3 এবং রিয়েল মোবাইল ব্রাউজারের মতো নিখুঁত হেডার্স
 headers = {
-    "Host": "fifalive.click",
+    "Host": "fifalive.link",
     "Upgrade-Insecure-Requests": "1",
     "User-Agent": "Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.163 Mobile Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
     "X-Requested-With": "mark.via.gp",
-    "Referer": "http://fifalive.click/",
+    "Referer": "http://fifalive.link/",
     "Accept-Encoding": "gzip, deflate",
     "Accept-Language": "en-GB,en-US;q=0.9,en;q=0.8",
 }
