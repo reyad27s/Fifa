@@ -1,17 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="HD 1" tvg-name="HD 1" group-title="FIFA Sports", HD 1
-https://live1.streambylivepulse.com/live/channel5/playlist.m3u8?wsSecret=f805d01587a0bbb0087d7427b94240d9&wsABSTime=1784449464
-#EXTINF:-1 tvg-id="HD 2" tvg-name="HD 2" group-title="FIFA Sports", HD 2
-https://tfxo0gr4uqmtt8y41hcjugwzdkpjpptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel16/playlist.m3u8?wsSecret=e345113a82137a6f1474f90cae26adaf&wsABSTime=1784449590&wsSession=b6a156d7a43b8aec044b01e7-178440639129026&wsIPSercert=071f57b283853b3ba47e3356fea79613&wsBindIP=2&wsserid=1168227343495781702
-#EXTINF:-1 tvg-id="HD 3" tvg-name="HD 3" group-title="FIFA Sports", HD 3
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
-#EXTINF:-1 tvg-id="FHD 1" tvg-name="FHD 1" group-title="FIFA Sports", FHD 1
-https://logic.icelanders.st/embed/fox-usa
-#EXTINF:-1 tvg-id="FHD 2" tvg-name="FHD 2" group-title="FIFA Sports", FHD 2
-https://logic.icelanders.st/embed/bbcone-uk
-#EXTINF:-1 tvg-id="FHD 3" tvg-name="FHD 3" group-title="FIFA Sports", FHD 3
-https://logic.icelanders.st/embed/beinsportsmax-sa
-#EXTINF:-1 tvg-id="4K 1" tvg-name="4K 1" group-title="FIFA Sports", 4K 1
-https://logic.icelanders.st/embed/fox4k-usa
-#EXTINF:-1 tvg-id="4K 2" tvg-name="4K 2" group-title="FIFA Sports", 4K 2
-https://logic.icelanders.st/embed/fussballtv1uhd-de
+https://content-aapm1.uplynk.com/d02ee5c1fec645c58a072849f22609d5/f.m3u8?pbs=ed78b96eaacb4fc19170a47dddac4e15
